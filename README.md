@@ -51,14 +51,9 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nodevlife&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nodevlife&show_icons=true&hide_border=true&count_private=true&bg_color=00000000" height="160" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nodevlife&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nodevlife&layout=compact&hide_border=true&bg_color=00000000" height="160" />
-</picture>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nodevlife&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nodevlife&layout=compact&hide_border=true&bg_color=00000000)
 
 </div>
 
@@ -69,4 +64,3 @@
 <sub>🧇🥛 빌드하고, 배우고, 반복합니다.</sub>
 
 </div>
-READMEOF
